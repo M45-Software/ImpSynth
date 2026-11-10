@@ -22,6 +22,8 @@ behavior.
 
 ## Install
 
+Requires Go 1.27.4 or later.
+
 ```bash
 go get github.com/Distortions81/impsynth
 ```
